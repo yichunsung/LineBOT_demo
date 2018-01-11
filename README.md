@@ -1,4 +1,4 @@
-# LineBOT_demo
+# LineBOT demo
 
 
 ## 在line上註冊專案，製作最簡單的Line機器人
@@ -32,3 +32,11 @@
 
 * 拉到最下面就可以看到QRCODE，加入的方法和line新增好友相同。
 ![](readme_image/step8.png)
+
+* 接著我們找到Using LINE@ features中的Auto-reply messages，啟用後點選Set message進去編輯簡單的自動回覆訊息功能。
+![](readme_image/step9.png)
+
+* 自動回應就是隨便打一個訊息他會回覆你固定的訊息，左邊選單也可以去“關鍵字回應訊息”去設定關鍵字回覆特別的訊息。
+![](readme_image/step10.png)
+
+* 至此，你已經可以利用line中後台建立一些簡單的功能(對於很多人來說已經夠用)，進階版要coding的部分後面再慢慢更新。
