@@ -19,3 +19,16 @@
 * 進入頁面後基本上填你想填的就好，唯一要注意的是Plan選項建議選擇Developer Trial，差別在於好友數上限50人，如果未來你想要持續發展的話只要付錢升級就好。
 ![](readme_image/step4.png)
 ![](readme_image/step5.png)
+
+* 當你輸入完成後並且經過層層的確認後，你可以發現你就建立了一隻機器人了。
+![](readme_image/step6.png)
+
+---
+
+2. 設定這隻line 機器人
+
+* 點進去你新創造的機器人。
+![](readme_image/step7.png)
+
+* 拉到最下面就可以看到QRCODE，加入的方法和line新增好友相同。
+![](readme_image/step8.png)
