@@ -42,25 +42,9 @@ def handle_message(event):
     #new_df = talk_csv[filter]
     #get_messageBOT = new_df.ix[:,1]
     #reply_messageBOT = new_df.ix[:,2]
-    
-    if event.message.text == "宋翊羣":
-        content = "好笨好笨～"
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text=content)
-        )
-        return 0
-
-    if event.message.text == "張聖菩":
-        content = "好可愛～"
-        line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text=content)
-        )
-        return 0
 
     if event.message.text == "台灣":
-        content = "一邊一國"
+        content = "一個國家"
         line_bot_api.reply_message(
             event.reply_token,
             TextSendMessage(text=content)
